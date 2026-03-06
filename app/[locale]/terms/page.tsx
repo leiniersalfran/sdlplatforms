@@ -278,9 +278,10 @@ export default async function Terms({ params: { locale } }: CustomPageProps) {
             <p>
                The Products and Services can be purchased by a valid
                debit/credit card from Visa, Mastercard or Dinners Club in one of
-               the next currencies: AED, AUD, BHD, CAD, DKK, EGP, EUR, GBP, HKD,
-               INR, JPY, JOD, KWD, LBP, LKR, MAD, MYR, NGN, OMR, PHP, PEN, PKR,
-               QAR, SGD, SEK, SAR, THB, TZS, TRY, USD, UGX, XOF and ZAR.
+               the next currencies: AED, CAD, EUR, GBP, TTD, USD.
+            </p>
+            <p>
+               We will not trade with or provide any services to OFAC and sanctioned countries.
             </p>
             <p>
                It is advisable that cardholders must retain copies of
@@ -834,10 +835,10 @@ export default async function Terms({ params: { locale } }: CustomPageProps) {
             <p>
                Los Productos y Servicios pueden ser comprados con una tarjeta de
                débito/crédito válida de Visa, Mastercard o Dinners Club en una
-               de las siguientes monedas: AED, AUD, BHD, CAD, DKK, EGP, EUR,
-               GBP, HKD, INR, JPY, JOD, KWD, LBP, LKR, MAD, MYR, NGN, OMR, PHP,
-               PEN, PKR, QAR, SGD, SEK, SAR, THB, TZS, TRY, USD, UGX, XOF and
-               ZAR.
+               de las siguientes monedas: AED, CAD, EUR, GBP, TTD, USD.
+            </p>
+            <p>
+               No realizaremos transacciones ni proporcionaremos servicios a países sancionados ni a aquellos incluidos en las listas de la OFAC.
             </p>
             <p>
                Es recomendable que los titulares de tarjetas conserven copias de
